@@ -3,7 +3,7 @@ This is a simple rails application as a template to be extended
 
 # Application Setup
 * Install Ruby, Rails and MySQL
-* Clone the repo: `git clone https://github.com/atiyil/Rails-app.git`
+* Clone the repo: `git clone https://github.com/atiyil/rails.git`
 * Update config/database.yml to set db user and password
 * Create the database: `rake db:create`
 * Run the app: `rails server`
